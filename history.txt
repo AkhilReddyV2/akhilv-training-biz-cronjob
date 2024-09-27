@@ -145,3 +145,72 @@ pwd
 oracle
 cd oracle
 cd akhilv
+cd
+pwd
+crontab -l
+crontab -e
+crontab -l
+./cronjob.sh
+pwd
+cd ec2-user
+cd ..
+ls
+pwd
+crontab -l
+sudo bash
+ls
+cd ec2-user
+ls
+./cronjob.sh
+pwd
+cd ..
+free -a
+ls
+cd ..
+ls
+cd home/
+cd ec2-user/
+ls
+./cronjob.sh 
+vi cronjob.sh 
+./cre
+./cronjob.sh 
+cat ~/.bash_history 
+sudo vi ~/.bashrc
+cat ~/.bash_history 
+vi cronjob.sh 
+./cronjob.sh 
+vi cronjob.sh 
+./cronjob.sh 
+crontab -l
+ls
+cd akhilv-training-biz-cronjob/
+ls al
+ls -al
+cd ..
+./cronjob.sh 
+cd ..
+cd home
+cd ec2-user/
+ls
+crontab -e
+ls
+cd ..
+ls -al
+ls o
+ls a
+cd ec2-user/
+./cronjob.sh 
+cd ..
+cd home/
+cd ec2-user/
+ls -al
+ls
+crontab -e
+vi cronjob.sh 
+crontab -l
+cat ~/.bash_history 
+cat ~/.bashrc 
+source .bashrc 
+LS A
+cat ~/.bash_history 
