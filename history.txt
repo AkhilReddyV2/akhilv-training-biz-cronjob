@@ -217,3 +217,4 @@ cat ~/.bash_history
 pwd
 cd
 ls 
+free
