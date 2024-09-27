@@ -220,3 +220,4 @@ ls
 free
 top
 history
+bash history
