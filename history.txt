@@ -1,0 +1,192 @@
+    1  2024-09-27 10:36:37 pwd
+    2  2024-09-27 10:36:37 logout
+    3  2024-09-27 10:36:37 ssh akhil@13.60.71.34
+    4  2024-09-27 10:36:37 logout
+    5  2024-09-27 10:36:37 sudo su -
+    6  2024-09-27 10:36:37 exit
+    7  2024-09-27 10:36:37 sudo -i
+    8  2024-09-27 10:36:37 sudo adduser akhilv
+    9  2024-09-27 10:36:37 sudo su - akhilv
+   10  2024-09-27 10:36:37 exit
+   11  2024-09-27 10:36:37 su root
+   12  2024-09-27 10:36:37 passwd ec2-user
+   13  2024-09-27 10:36:37 sudo passwd ec2-user
+   14  2024-09-27 10:36:37 su root
+   15  2024-09-27 10:36:37 su -i
+   16  2024-09-27 10:36:37 sudo -i
+   17  2024-09-27 10:36:37 exit
+   18  2024-09-27 10:36:37 cat /etc/redhat-release
+   19  2024-09-27 10:36:37 df -ah
+   20  2024-09-27 10:36:37 free -g
+   21  2024-09-27 10:36:37 free -m
+   22  2024-09-27 10:36:37 sudo yum update
+   23  2024-09-27 10:36:37 java --version
+   24  2024-09-27 10:36:37 sudo yum install java-17-openjdk
+   25  2024-09-27 10:36:37 java -version
+   26  2024-09-27 10:36:37 sudo yum install wget
+   27  2024-09-27 10:36:37 wget https://download.oracle.com/otn-pub/otn_software/db-express/oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   28  2024-09-27 10:36:37 ls
+   29  2024-09-27 10:36:37 ls -lh
+   30  2024-09-27 10:36:37 ls -l
+   31  2024-09-27 10:36:37 rm '
+   32  2024-09-27 10:36:37 c
+   33  2024-09-27 10:36:37 -q
+   34  2024-09-27 10:36:37 history
+   35  2024-09-27 10:36:37 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   36  2024-09-27 10:36:37 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   37  2024-09-27 10:36:37 ls
+   38  2024-09-27 10:36:37 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   39  2024-09-27 10:36:37 wget https://yum.oracle.com/repo/OracleLinux/OL8/appstream/x86_64/getPackage/oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpmhttps://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   40  2024-09-27 10:36:37 wget https://rpmfind.net/linux/almalinux/8.10/AppStream/x86_64/os/Packages/compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   41  2024-09-27 10:36:37 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   42  2024-09-27 10:36:37 ls
+   43  2024-09-27 10:36:37 sudo yum install compat-openssl10-1.0.2o-4.el8_6.x86_64.rpm
+   44  2024-09-27 10:36:37 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el
+   45  2024-09-27 10:36:37 ls
+   46  2024-09-27 10:36:37 sudo yum localinstall oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   47  2024-09-27 10:36:37 ls -lah
+   48  2024-09-27 10:36:37 sudo yum localinstall  oracle-database-preinstall-21c-1.0-1.el8.x86_64.rpm
+   49  2024-09-27 10:36:37 sudo yum localinstall oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
+   50  2024-09-27 10:36:37 history
+   51  2024-09-27 10:36:37 sudo /etc/init.d/oracle-xe-21c configure
+   52  2024-09-27 10:36:37 export CV_ASSUME_DISTID=OEL8.4
+   53  2024-09-27 10:36:37 /etc/init.d/oracle-xe-21c configure
+   54  2024-09-27 10:36:37 su export CV_ASSUME_DISTID=OEL8.4 /etc/init.d/oracle-xe-21c configure
+   55  2024-09-27 10:36:37 export CV_ASSUME_DISTID=OEL8.4
+   56  2024-09-27 10:36:37 /etc/init.d/oracle-xe-21c configure
+   57  2024-09-27 10:36:37 sudo su
+   58  2024-09-27 10:36:37 export ORACLE_HOME=/opt/oracle/product/21c/dbhomeXE
+   59  2024-09-27 10:36:37 export ORACLE_SID=XE
+   60  2024-09-27 10:36:37 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+   61  2024-09-27 10:36:37 sudo yum install screen
+   62  2024-09-27 10:36:37 sudo yum install tmux
+   63  2024-09-27 10:36:37 sqlplus
+   64  2024-09-27 10:36:37 export PATH=$PATH:/opt/oracle/product/21c/dbhomeXE/bin/
+   65  2024-09-27 10:36:37 sqlplus
+   66  2024-09-27 10:36:37 alter session set "_ORACLE_SCRIPT"=true;
+   67  2024-09-27 10:36:37 env
+   68  2024-09-27 10:36:37 env | grep ORACLE
+   69  2024-09-27 10:36:37 sqlplus
+   70  2024-09-27 10:36:37 sudo service oracle-xe-21c start
+   71  2024-09-27 10:36:37 source ~/.bash_profile
+   72  2024-09-27 10:36:37 sudo vi  ~/.bash_profile
+   73  2024-09-27 10:36:37 source ~/.bash_profile
+   74  2024-09-27 10:36:37 sqlplus sys as dba
+   75  2024-09-27 10:36:37 sqlplus
+   76  2024-09-27 10:36:37 sqlplus classicmodels/classicmodels123
+   77  2024-09-27 10:36:37 sudo systemctl enable oracle-xe-21c
+   78  2024-09-27 10:36:37 sudo service oracle-xe-21c start
+   79  2024-09-27 10:36:37 vi /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+   80  2024-09-27 10:36:37 sudo vi /opt/oracle/product/21c/dbhomeXE/cv/admin/cvu_config
+   81  2024-09-27 10:36:37 sudo service oracle-xe-21c start
+   82  2024-09-27 10:36:37 sudo service oracle-xe-21c stop
+   83  2024-09-27 10:36:37 sudo service oracle-xe-21c start
+   84  2024-09-27 10:36:37 ls
+   85  2024-09-27 10:36:37 sqlplus
+   86  2024-09-27 10:36:37 scp classicmodels.dmp ec2-user@13.60.249.253
+   87  2024-09-27 10:36:37 scp ./classicmodels.dmp ec2-user@13.60.249.253
+   88  2024-09-27 10:36:37 ls
+   89  2024-09-27 10:36:37 exit
+   90  2024-09-27 10:36:37 lsnrctl
+   91  2024-09-27 10:36:37 sudo root
+   92  2024-09-27 10:36:37 su root
+   93  2024-09-27 10:36:37 ssh root@13.49.224.44
+   94  2024-09-27 10:36:37 ssh -i "C:\Users\akhil.vancha\Downloads\akhil-key-pair.pem" root@13.49.224.44
+   95  2024-09-27 10:36:37 esit
+   96  2024-09-27 10:36:37 exit
+   97  2024-09-27 10:36:37 sudo root
+   98  2024-09-27 10:36:37 sudo bash
+   99  2024-09-27 10:36:37 ls
+  100  2024-09-27 10:36:37 sudo bash
+  101  2024-09-27 10:36:37 sudo yum install git
+  102  2024-09-27 10:36:37 git clone https://github.com/AkhilReddyV2/akhilv-training-biz-cronjob
+  103  2024-09-27 10:36:37 history
+  104  2024-09-27 10:36:37 ssh-keygen -t rsa
+  105  2024-09-27 10:36:37 cd .ssh
+  106  2024-09-27 10:36:37 cat id_rsa.pub 
+  107  2024-09-27 10:36:37 ls
+  108  2024-09-27 10:36:37 cd ..
+  109  2024-09-27 10:36:37 ls
+  110  2024-09-27 10:36:37 cd akhilv-training-biz-cronjob/
+  111  2024-09-27 10:36:37 ls
+  112  2024-09-27 10:36:37 ls -al
+  113  2024-09-27 10:36:37 cd ..
+  114  2024-09-27 10:36:37 rm akhilv-training-biz-cronjob/
+  115  2024-09-27 10:36:37 rm -rf akhilv-training-biz-cronjob/
+  116  2024-09-27 10:36:37 ls
+  117  2024-09-27 10:36:37 git clone git@github.com:AkhilReddyV2/akhilv-training-biz-cronjob.git
+  118  2024-09-27 10:36:37 cd akhilv-training-biz-cronjob/
+  119  2024-09-27 10:36:37 ls -al
+  120  2024-09-27 10:36:37 cd ..
+  121  2024-09-27 10:36:37 vi cronjob.sh
+  122  2024-09-27 10:36:37 sudo bash
+  123  2024-09-27 10:36:37 ./cronjob.sh
+  124  2024-09-27 10:36:37 sudo ./cronjob.sh
+  125  2024-09-27 10:36:37 vi cronjob.sh 
+  126  2024-09-27 10:36:37 chmod +x /path/to/your/cronjob.sh
+  127  2024-09-27 10:36:37 chmod +x /home/ec2-user/cronjob.sh
+  128  2024-09-27 10:36:37 ./cronjob.sh
+  129  2024-09-27 10:36:37 crontab -e
+  130  2024-09-27 10:36:37 pwd
+  131  2024-09-27 10:36:37 cd ..
+  132  2024-09-27 10:36:37 ls
+  133  2024-09-27 10:36:37 pwd
+  134  2024-09-27 10:36:37 oracle
+  135  2024-09-27 10:36:37 cd oracle
+  136  2024-09-27 10:36:37 cd akhilv
+  137  2024-09-27 10:36:41 cd
+  138  2024-09-27 10:36:43 pwd
+  139  2024-09-27 10:37:06 crontab -l
+  140  2024-09-27 10:37:20 crontab -e
+  141  2024-09-27 10:38:12 crontab -l
+  142  2024-09-27 10:38:35 ./cronjob.sh
+  143  2024-09-27 10:39:14 pwd
+  144  2024-09-27 10:39:21 cd ec2-user
+  145  2024-09-27 10:39:27 cd ..
+  146  2024-09-27 10:39:31 ls
+  147  2024-09-27 10:39:33 pwd
+  148  2024-09-27 10:41:46 crontab -l
+  149  2024-09-27 10:43:05 sudo bash
+  150  2024-09-27 10:48:22 ls
+  151  2024-09-27 10:48:35 cd ec2-user
+  152  2024-09-27 10:48:48 ls
+  153  2024-09-27 10:49:02 ./cronjob.sh
+  154  2024-09-27 10:52:05 pwd
+  155  2024-09-27 10:52:12 cd ..
+  156  2024-09-27 10:52:26 free -a
+  157  2024-09-27 10:52:36 ls
+  158  2024-09-27 11:01:51 cd ..
+  159  2024-09-27 11:01:53 ls
+  160  2024-09-27 11:01:57 cd home/
+  161  2024-09-27 11:01:59 cd ec2-user/
+  162  2024-09-27 11:02:01 ls
+  163  2024-09-27 11:02:05 ./cronjob.sh 
+  164  2024-09-27 11:02:11 vi cronjob.sh 
+  165  2024-09-27 11:02:59 ./cre
+  166  2024-09-27 11:03:03 ./cronjob.sh 
+  167  2024-09-27 11:03:20 cat ~/.bash_history 
+  168  2024-09-27 11:03:38 sudo vi ~/.bashrc
+  169  2024-09-27 11:04:36 cat ~/.bash_history 
+  170  2024-09-27 11:05:20 vi cronjob.sh 
+  171  2024-09-27 11:05:54 ./cronjob.sh 
+  172  2024-09-27 11:06:09 vi cronjob.sh 
+  173  2024-09-27 11:07:19 ./cronjob.sh 
+  174  2024-09-27 11:07:35 crontab -l
+  175  2024-09-27 11:07:49 ls
+  176  2024-09-27 11:07:56 cd akhilv-training-biz-cronjob/
+  177  2024-09-27 11:08:03 ls al
+  178  2024-09-27 11:08:08 ls -al
+  179  2024-09-27 11:08:14 cd ..
+  180  2024-09-27 11:08:28 ./cronjob.sh 
+  181  2024-09-27 11:08:52 cd ..
+  182  2024-09-27 11:08:58 cd home
+  183  2024-09-27 11:09:00 cd ec2-user/
+  184  2024-09-27 11:09:02 ls
+  185  2024-09-27 11:09:33 crontab -e
+  186  2024-09-27 11:10:00 ls
+  187  2024-09-27 11:10:02 cd ..
+  188  2024-09-27 11:10:16 ls -al
+  189  2024-09-27 11:10:19 ls o
+  190  2024-09-27 11:10:21 ls a
+  191  2024-09-27 11:11:18 cd ec2-user/
+  192  2024-09-27 11:11:22 ./cronjob.sh 
