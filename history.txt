@@ -214,3 +214,6 @@ cat ~/.bashrc
 source .bashrc 
 LS A
 cat ~/.bash_history 
+pwd
+cd
+ls 
