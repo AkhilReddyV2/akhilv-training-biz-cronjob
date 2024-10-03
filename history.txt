@@ -227,3 +227,6 @@ exit
 ls
 yum install oracle-database-xe-21c-1.0-1.ol8.x86_64.rpm
 bash ssh
+history
+git clone https://github.com/AkhilReddyV2/akhilv-training-biz-cronjob
+history
