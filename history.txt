@@ -233,3 +233,5 @@ history
 history
 scp ./classicmodels.dmp ec2-user@13.60.249.253
 scp ./classicmodels.dmp ec2-user@51.20.91.6
+pscp ./classicmodels.dmp ec2-user@51.20.91.6
+scp ./classicmodels.dmp ec2-user@51.20.91.6
