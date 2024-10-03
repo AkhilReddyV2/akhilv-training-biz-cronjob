@@ -221,3 +221,6 @@ free
 top
 history
 bash history
+pwd
+ls
+exit
