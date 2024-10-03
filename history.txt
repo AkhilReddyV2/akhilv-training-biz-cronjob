@@ -239,3 +239,7 @@ touch classicmodels.dmp
 cd ..
 touch classicmodels.dmp
 touch new.txt
+sudo -i
+sudo su
+ls
+ls -l
