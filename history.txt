@@ -238,3 +238,4 @@ scp ./classicmodels.dmp ec2-user@51.20.91.6
 touch classicmodels.dmp
 cd ..
 touch classicmodels.dmp
+touch new.txt
