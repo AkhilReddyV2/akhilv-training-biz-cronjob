@@ -230,3 +230,5 @@ bash ssh
 history
 git clone https://github.com/AkhilReddyV2/akhilv-training-biz-cronjob
 history
+history
+scp ./classicmodels.dmp ec2-user@13.60.249.253
