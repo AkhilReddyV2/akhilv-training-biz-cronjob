@@ -256,3 +256,5 @@ chmod 700  etc/mail/authinfo
 cd /etc/mail
 ls
 touch authinfo
+sudo sudo chmod 777 /etc/mail
+sudo chmod 777 /etc/mail
