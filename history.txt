@@ -270,3 +270,7 @@ sudo systemctl start sendmail
 sudo systemctl status sendmail
 {   echo "Subject: CPU Information";   echo "To: akhilreddyvancha288@gmail.com";   echo "Content-Type: text/plain; charset=UTF-8";   echo "";   echo "$cpu_info"; } | sendmail -t
 sudo vi /home/ec2-user/test.sh
+cd
+ls
+sudo chmod +x test.sh
+./test.sh 
