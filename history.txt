@@ -288,3 +288,4 @@ vi /path/to/send_cpu_info.sh
 history
 vi test.sh
 chmod 700 test.sh
+vi test.sh
