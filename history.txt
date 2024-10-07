@@ -255,3 +255,4 @@ sudo vi etc/mail/authinfo
 chmod 700  etc/mail/authinfo
 cd /etc/mail
 ls
+touch authinfo
