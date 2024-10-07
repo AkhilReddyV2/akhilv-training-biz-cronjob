@@ -260,3 +260,5 @@ sudo sudo chmod 777 /etc/mail
 sudo chmod 777 /etc/mail
 sudo vi /etc/mail/authinfo
 sudo systemctl restart sendmail
+sudo systemctl status sendmail
+sudo systemctl start sendmail
