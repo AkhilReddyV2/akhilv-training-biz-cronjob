@@ -251,3 +251,4 @@ sudo vi /etc/mail/sendmail.mc
 sudo yum install sendmail-cf -y
 sudo vi etc/mail/authinfo
 systemctl status sendmail
+sudo vi etc/mail/authinfo
