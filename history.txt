@@ -268,3 +268,4 @@ sudo chown root:root /etc/mail
 ls -ld /etc/mail
 sudo systemctl start sendmail
 sudo systemctl status sendmail
+{   echo "Subject: CPU Information";   echo "To: akhilreddyvancha288@gmail.com";   echo "Content-Type: text/plain; charset=UTF-8";   echo "";   echo "$cpu_info"; } | sendmail -t
