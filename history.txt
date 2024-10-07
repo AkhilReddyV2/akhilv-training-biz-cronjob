@@ -245,3 +245,5 @@ ls
 ls -l
 ls -l | grep "cronjob.sh"
 sudo yum install sendmail -y
+sudo systemctl enable sendmail
+sudo systemctl start sendmail
