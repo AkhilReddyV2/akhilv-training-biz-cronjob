@@ -289,3 +289,7 @@ history
 vi test.sh
 chmod 700 test.sh
 vi test.sh
+./test.sh
+chmod +x test.sh
+./test.sh
+sudo ./test.sh
