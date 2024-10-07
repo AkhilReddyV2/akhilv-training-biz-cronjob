@@ -286,3 +286,4 @@ sudo systemctl restart sendmail
 nano /path/to/send_cpu_info.sh
 vi /path/to/send_cpu_info.sh
 history
+vi test.sh
