@@ -276,3 +276,7 @@ sudo chmod +x test.sh
 ./test.sh 
 echo "Subject: Test Email" | sendmail -v akhilreddyvancha288@gmail.com
 tail -f /var/log/mail.log
+sudo vi /etc/mail/sendmail.mc
+sudo systemctl restart sendmail
+echo "Subject: Test Email" | sendmail -v akhilreddyvancha288@gmail.com
+tail -f /var/log/mail.log
