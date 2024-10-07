@@ -283,3 +283,5 @@ tail -f /var/log/mail.log
 sudo yum install sendmail-cf -y
 sudo yum install cyrus-sasl-plain
 sudo systemctl restart sendmail
+nano /path/to/send_cpu_info.sh
+vi /path/to/send_cpu_info.sh
